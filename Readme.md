@@ -1,9 +1,9 @@
-# Homework 10
+# Analyzing YouTube Trending Video Data
 
 **Author:** Anna Monastyrska
 
 📝 **Description**  
-This homework focuses on processing and analyzing YouTube trending video data using Apache Spark inside a Dockerized environment. The goals of the project are:
+This project focuses on processing and analyzing YouTube trending video data using Apache Spark inside a Dockerized environment. The goals of the project are:
 - To calculate and aggregate analytical insights (e.g. top trending videos, channels, category-wise stats).
 - To export results into JSON files.
 - To automate the setup using Docker and share the results with screenshots and output samples.
